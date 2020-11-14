@@ -1,1 +1,2 @@
 L1, lokalne,plik b
+L2, lokalne,plik b
